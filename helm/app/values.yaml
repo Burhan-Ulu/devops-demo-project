@@ -6,7 +6,7 @@ replicaCount: 2
 
 image:
   githubID: burhan-ulu
-  repository: demo-java-app
+  repository: devops-demo-project
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag:
